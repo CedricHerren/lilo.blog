@@ -1,7 +1,7 @@
 +++
 title = "Reportage"
 date = "2024-03-27"
-draft = true
+draft = false
 pinned = false
 tags = ["<head>", "<h6>", "<code>"]
 image = "italienischer-bar.jpg"
